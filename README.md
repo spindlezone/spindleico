@@ -9,7 +9,7 @@
 - [Concept](#concept)
 - [Docs](#docs)
   - [Whitepaper](#whitepaper)
-- [LICENSE](#license)
+- [License](#License)
 
 ## Docs
 
@@ -23,5 +23,5 @@
 - [Whitepaper[RU]](https://spindle.zone/spindlewp_ru.pdf)
 
 
-## LICENSE
+## License
 XXX License XX.XX
